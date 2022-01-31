@@ -1,2 +1,2 @@
 # atm-simulator
-Python based ATM simulation program
+JAVA based ATM simulation program
